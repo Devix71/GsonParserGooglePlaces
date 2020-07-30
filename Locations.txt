@@ -1,0 +1,2805 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.444025,
+               "lng" : 26.1189235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44526597989272,
+                  "lng" : 26.12051877989272
+               },
+               "southwest" : {
+                  "lat" : 44.44256632010728,
+                  "lng" : 26.11781912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a05e047c5d81c38c36c8c193d13048d06fa64adc",
+         "name" : "The Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109918385511801998899\"\u003eNicusor Ionita\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA48nCRu3DkFKee5BKYdc3gpBqBDLYSMgmcAlw5xdGJcJBCe7bWLVIIDBXJZ6trpRAsMPSKUbVOQ52PuGbiBVQbmP21CIg90LePspLdobLuoluZZIY8FPPl_PNL7DEKyK9EhBh_ELNF_RDtXOmHfP-YwKjGhSgegcimML_585pne9J2jFpl_BUlQ",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJtYTIXzP_sUAR4E6tTHEkpc8",
+         "plus_code" : {
+            "compound_code" : "C4V9+JH București",
+            "global_code" : "8GP8C4V9+JH"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJtYTIXzP_sUAR4E6tTHEkpc8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 406,
+         "vicinity" : "Calea Moșilor 221, București"
+      },
+	  {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4358467,
+               "lng" : 26.094645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43719652989272,
+                  "lng" : 26.09599482989272
+               },
+               "southwest" : {
+                  "lat" : 44.43449687010727,
+                  "lng" : 26.09329517010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "52283a2d1c9cdc69ab86a0d5f2d2df7e9cff9a5f",
+         "name" : "Beans&Dots Specialty Coffee Shop & Concept Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2449,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103805058409665747373\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ-5IowdzwXxmKNFdDV-qnKM-5ZujXBSawwkZwMvyVgZkWB8wVD7eJtt6Nev2s8qRkclovgyAEaV2l6pJWEk44YtbZGImaKkXmICIkntbOOl6Uq_qHzLCDenAM94dsPICEhB35pEV8R45i1avL_d5AOh4GhSNzGin0Ka47S8ENjdaNCpgs41AMg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ25QM-0P_sUAR5hY9d6FxhHI",
+         "plus_code" : {
+            "compound_code" : "C3PV+8V București",
+            "global_code" : "8GP8C3PV+8V"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ25QM-0P_sUAR5hY9d6FxhHI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 670,
+         "vicinity" : "Strada Ion Brezoianu 23-25, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4406614,
+               "lng" : 26.1002772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44206787989273,
+                  "lng" : 26.10160322989272
+               },
+               "southwest" : {
+                  "lat" : 44.43936822010728,
+                  "lng" : 26.09890357010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ba13b48029ccc097f2b3bd07a2fe80835e5c1b52",
+         "name" : "Urban Hub Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104637339374477125219\"\u003e제이슨\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQqoqclzdf6Jy0w8d3_ZLMl_gZmJ2bUHg1u-ustnapRd8GBhZ-33a11zCT083sxGL0RlumDUtSvlOrQClmOx6meAZnOqMnqZdavw47w4lmq90Ofn6ssW5_cg9YcZ58coeEhAv3714hcCvZlmBekP3vs6PGhRrPBypPl-DceNjOjbiKuxm6HYX_w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJy6eftEj_sUARt8wIgfTg_oE",
+         "plus_code" : {
+            "compound_code" : "C4R2+74 București",
+            "global_code" : "8GP8C4R2+74"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJy6eftEj_sUARt8wIgfTg_oE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 85,
+         "vicinity" : "Strada C. A. Rosetti 14, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.434678,
+               "lng" : 26.0999573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43602782989272,
+                  "lng" : 26.10130712989272
+               },
+               "southwest" : {
+                  "lat" : 44.43332817010727,
+                  "lng" : 26.09860747010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a097fc7e952e7cbdfc37c2075c0cc15a536aa17c",
+         "name" : "COFFEE UP",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110266295310455869320\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4P3Eb0PcD2giVJEh1zYq2ojHA2W_CjV12qn3So6G9BbOa78gfsWLDhEalAKX0jFY-paloq156pRJWezaeQJKH0u6BGsEb9EM3dSlfzogJzw4b_cdMrUuWvwGfp7UFgRSEhCdhzpQEiG8Px1yKmFPlqUfGhSlvcUyvUQCBqAW2oBFeIOHZ0W3NA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJWebrPT7_sUAR6liI-ZmB1UQ",
+         "plus_code" : {
+            "compound_code" : "C3MX+VX București",
+            "global_code" : "8GP8C3MX+VX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJWebrPT7_sUAR6liI-ZmB1UQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 127,
+         "vicinity" : "Bulevardul Regina Elisabeta Nr. 9, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4304047,
+               "lng" : 26.0966529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43175257989272,
+                  "lng" : 26.09802117989272
+               },
+               "southwest" : {
+                  "lat" : 44.42905292010727,
+                  "lng" : 26.09532152010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "85c7458bee880faff1dd3c12154f3f4c41195b54",
+         "name" : "Green Monkeys",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106478979913488251088\"\u003eGreta Erdmann\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5RT2h-kCY5icOTY-65N0RF5s7F2E7luK8DtZoINeJEzo_colN_kTe3M2BR2zWHkR53h6RGiLbK_9353-LEEQvYRqDb8vpsh-N--YludPBGtjEaljAFMHMdUjsoceYrJEEhCpUkwqI6AgO7cY2HoLYaZjGhR5TI7V2Ra3v3daBWv5M7P33t2ZXA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJM45YjSf_sUARNJH1iAjCTAA",
+         "plus_code" : {
+            "compound_code" : "C3JW+5M București",
+            "global_code" : "8GP8C3JW+5M"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJM45YjSf_sUARNJH1iAjCTAA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Calea Victoriei 1-5, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4265,
+               "lng" : 26.1183915
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42767432989272,
+                  "lng" : 26.11972482989272
+               },
+               "southwest" : {
+                  "lat" : 44.42497467010728,
+                  "lng" : 26.11702517010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f5d3ebbe26bb45047237af080a59729b2992e5d7",
+         "name" : "Gloria Jean's Coffees",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107906961014300289084\"\u003eghenovici florin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABU8IL3exMTipiLYVg71f5Jh5uohVrgWUkuV5-9KhxTh-j2l--8pJeMlaT-3I7-5-54pQ_sIoL2VvIGX2Gjx4RQY0F7PL740fxG3soKU3kV1p6z6NgMXyOO1yTogTbgj4EhCGUzKJ5r8Bd0418dmmfblFGhQjhy3oAHnNz6wBM0Vb-272_a47jg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJXWvL8yH_sUARXB3q2XhlLiE",
+         "plus_code" : {
+            "compound_code" : "C4G9+J9 București",
+            "global_code" : "8GP8C4G9+J9"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJXWvL8yH_sUARXB3q2XhlLiE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 888,
+         "vicinity" : "Bulevardul Unirii 57, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.44784,
+               "lng" : 26.099691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44920032989273,
+                  "lng" : 26.10088882989272
+               },
+               "southwest" : {
+                  "lat" : 44.44650067010728,
+                  "lng" : 26.09818917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f6a73be817a3fd9c8323027437f29b8051800a54",
+         "name" : "Tucano Coffee Guatemala",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106835920605413178790\"\u003eDenisa Ligia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzWJAJZwimzRpUiEmuAA32O0rrTgyFddwJubGtHOMP-b-bk62E6Y60ufreoC2ERHoT8MGRVN8txxHVgBzow62gMUHm36yk2Us52ZZEL5Jm21kKkGre79gHf_QI3aolWdiEhCioS8cDFyIGmIhJhH48P22GhQoWcmIOukVoNexuI3pG79GzcwIgA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJm17FfE3_sUAR2CnGhbYYIdE",
+         "plus_code" : {
+            "compound_code" : "C3XX+4V București",
+            "global_code" : "8GP8C3XX+4V"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJm17FfE3_sUAR2CnGhbYYIdE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1229,
+         "vicinity" : "Calea Dorobanți 18, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4374072,
+               "lng" : 26.1014151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43874402989272,
+                  "lng" : 26.10284037989272
+               },
+               "southwest" : {
+                  "lat" : 44.43604437010728,
+                  "lng" : 26.10014072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "bac0e3bfbf705781ddd8bd5866210c582815f37f",
+         "name" : "Roasted Coffee Shop Universitate Metrou",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2488,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105748157714211743464\"\u003eValentin Ermil\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEAOefhyIsR8zDMB4bjpFVM-C6W2unA1sPGR5rGbi-eTgQngOvjoC-ZBd8ofCnWrqEAalb-jfVFKFlLZO0Pvpsn1ygDqDNMPnHL6wco3RFGKJapzv1rWfcAvxS9slZ9zbEhDr1Ee4MZNaTdk4ENC9SfH6GhRc9W565vihOtGLTHrGcfJQkuopWg",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJKzCQrkf_sUARbENYK-mRFI0",
+         "plus_code" : {
+            "compound_code" : "C4P2+XH București",
+            "global_code" : "8GP8C4P2+XH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJKzCQrkf_sUARbENYK-mRFI0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 64,
+         "vicinity" : "Pasajul Pietonal Intercontinental, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.43470809999999,
+               "lng" : 26.0888615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43599452989272,
+                  "lng" : 26.09017812989272
+               },
+               "southwest" : {
+                  "lat" : 44.43329487010728,
+                  "lng" : 26.08747847010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2e29a7699211dab764bec8d0bfdd6483c5804135",
+         "name" : "The Coffee Factory",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3532,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105075318109851772698\"\u003eAdela Cicanescu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA39v6j_tiXt3wgOLbpoW3Ksex2-hHYKOfZyRH33vvAv2BQqtuFJGMUvouKrgBdiv9RiN42nQPh4LCrn6PSf8vHZ0dKurZe9CPn6lIY-LVxOONrQAAGXEKeCgWRQ-Ckw34EhCLOiMy68EyIXKzvVmo2il8GhQ3s6auwuDvbJCw6rBSHicefGpT8A",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJN29r5kL_sUARJzcWu5z7rIo",
+         "plus_code" : {
+            "compound_code" : "C3MQ+VG București",
+            "global_code" : "8GP8C3MQ+VG"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJN29r5kL_sUARJzcWu5z7rIo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 650,
+         "vicinity" : "Bulevardul Regina Elisabeta 54, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4404708,
+               "lng" : 26.100246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44179082989272,
+                  "lng" : 26.10148172989273
+               },
+               "southwest" : {
+                  "lat" : 44.43909117010728,
+                  "lng" : 26.09878207010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b0ecff183ac9892427bee77142c00f1117f2db9c",
+         "name" : "Klauss Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113401016824527686549\"\u003e113401016824527686549\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFhnXlJEBS1xcpJT6qPvinCovSNlXC0tEKLkC2GwkObnJjgqcCfPDp32N6xC5huFKlO9GtW_hhykjfQYiU01BLQWs8So8kwM9Hrk9Ac-Q9010TFoRP8wVw5ZtPYDD3VtMEhBrXAQT27p8RHTPLciGQ_CWGhQCGXdmeN1qYNSfS-CoOxNFJdjdhQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJbTOhA9P_sUARvaKP7imFiVo",
+         "plus_code" : {
+            "compound_code" : "C4R2+53 București",
+            "global_code" : "8GP8C4R2+53"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJbTOhA9P_sUARvaKP7imFiVo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 298,
+         "vicinity" : "Bulevardul Nicolae Bălcescu 36, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4468154,
+               "lng" : 26.0947646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44814647989271,
+                  "lng" : 26.09611372989272
+               },
+               "southwest" : {
+                  "lat" : 44.44544682010727,
+                  "lng" : 26.09341407010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "04982f911b1fdd98906304b0c134834570ecfa17",
+         "name" : "Steam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113719695540598712660\"\u003eMeves Andrei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJyuVWbpL9-KXPAS67bEVGlWiLtETYCCedp-_UMzekFsqgy-x9Cgr7k2PNPRVVbhdxnXyGmtQkawDD7h0VKNkQSmzourORhsn1Uns6RexXxBt0zm2h3osOYX1x2VnI4AhEhC4M02Il36egoJkgbY5jBKHGhQ9iYQYtPPomAzcNmEzOhfb_M4ZoA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDcivM1L_sUAR82dZJmn0TZE",
+         "plus_code" : {
+            "compound_code" : "C3WV+PW București",
+            "global_code" : "8GP8C3WV+PW"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJDcivM1L_sUAR82dZJmn0TZE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 304,
+         "vicinity" : "Strada Visarion 2, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4293893,
+               "lng" : 26.1029718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43054657989272,
+                  "lng" : 26.10427047989272
+               },
+               "southwest" : {
+                  "lat" : 44.42784692010728,
+                  "lng" : 26.10157082010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e29d4b5e4dc46f600ea1d1e2c1bb755c5a5c3204",
+         "name" : "EMOZIA Coffee Manifesto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110636540716527199526\"\u003eShmulik Peled\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkrDifArqlE1XQxxQr68K1_tGP7Wj8G2Xwlimibk4gTIqcCV55ikrWcGT37kL8p7Np5Vg39ZeUmpmPUNgBuHnlEM6aUKMFbq-uUHr2rs5SAMmwG_GuxLSEvGdA64FjeR1EhDICBj2a7i6-PUTLgpLJCCrGhRs177umAhXBsHuxZJGvyo7cgM5LA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK0IJKAb_sUARAz48GMf8ckY",
+         "plus_code" : {
+            "compound_code" : "C4H3+Q5 București",
+            "global_code" : "8GP8C4H3+Q5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJK0IJKAb_sUARAz48GMf8ckY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 412,
+         "vicinity" : "Strada Halelor 17, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4491667,
+               "lng" : 26.0883333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.45055002989272,
+                  "lng" : 26.08976972989272
+               },
+               "southwest" : {
+                  "lat" : 44.44785037010728,
+                  "lng" : 26.08707007010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "cd616371c5fb22d92d6d141747a7628968260ab3",
+         "name" : "Fellow One Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113062757989933701158\"\u003eMichael Drauer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABZTcNZ4hey685Az5ALYELRx39BP0MQcfpxNusFSzj8tHVcfqzY3HmLzh3GiXeWilwJYU4AdJZKuKhAlJVXCfVV56j2_NS3WxsuTyicnAUWVfU0Hs1ai7qV9RYYHZ4WKPEhABQ8uGDWnmls_5zsb4kerXGhRwQZRG_hK2PTuMHeGj5eG8-p6yKQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ_VcKsVX_sUARIw0PLuDItf8",
+         "plus_code" : {
+            "compound_code" : "C3XQ+M8 București",
+            "global_code" : "8GP8C3XQ+M8"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJ_VcKsVX_sUARIw0PLuDItf8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 287,
+         "vicinity" : "Calea Victoriei 143, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4343738,
+               "lng" : 26.1015151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43569047989271,
+                  "lng" : 26.10279362989272
+               },
+               "southwest" : {
+                  "lat" : 44.43299082010726,
+                  "lng" : 26.10009397010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "11e5224b946514e23d3a8545a115ab0ad7bc8cbf",
+         "name" : "Ted's Coffee Co",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117624547405455788953\"\u003eHedi Jerbi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyjg1yJw3F54Vhfbv3j_fAmXnR6PMYJOTJdcFNtH7hZaKKBaIhTdcFCa5Yrv3lD8VL3LylpAxVNAXl2OuDYEtwFGtkhIVdy6-jNipToT93DmSMPEsDSAA7vj9_1bW6UCoEhAArZQIVdpAGJqDrVXJ3FoXGhSWBCSpK-0nCd0oQttFkDKJ5atM7A",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJU25GqkD_sUARFRi7kxBZ_bQ",
+         "plus_code" : {
+            "compound_code" : "C4M2+PJ București",
+            "global_code" : "8GP8C4M2+PJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJU25GqkD_sUARFRi7kxBZ_bQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 990,
+         "vicinity" : "Strada Toma Caragiu 3, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4337348,
+               "lng" : 26.1010876
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43506322989273,
+                  "lng" : 26.10247642989272
+               },
+               "southwest" : {
+                  "lat" : 44.43236357010728,
+                  "lng" : 26.09977677010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "153a8a4ccf20c7e8ded91977e6ab9ffa0894e7df",
+         "name" : "FORMA Coffeshop & Art Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2565,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114222903876939109056\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnrfGhhJ-Y8yBU21zs7atuhUffq_E_N0vWDycIanZuAMDWV5JKAUw5WSseiV2U7_pTF5zpqHDOZb7aDE8mdWJjQo7xp1sHsBbTjvv58imXExQhxbQIiPz_cW8LcQG1DDVEhDq8WTf7whjsgxqnAEKAJvBGhRmg9bt0cRb-f603QHMBalKLU6CfA",
+               "width" : 2565
+            }
+         ],
+         "place_id" : "ChIJ9TU_xXH_sUARqgEVXhups_c",
+         "plus_code" : {
+            "compound_code" : "C4M2+FC București",
+            "global_code" : "8GP8C4M2+FC"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ9TU_xXH_sUARqgEVXhups_c",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 146,
+         "vicinity" : "Strada Ion Ghica 4, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4288291,
+               "lng" : 26.1043956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43017892989273,
+                  "lng" : 26.10574542989272
+               },
+               "southwest" : {
+                  "lat" : 44.42747927010728,
+                  "lng" : 26.10304577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "837c4b1e0eec236748446e4114213b357239898b",
+         "name" : "Sheriff Louis Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ_xvUARb_sUARocfusLDA0ek",
+         "plus_code" : {
+            "compound_code" : "C4H3+GQ București",
+            "global_code" : "8GP8C4H3+GQ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ_xvUARb_sUARocfusLDA0ek",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Sector 3, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4255269,
+               "lng" : 26.1003646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42692097989272,
+                  "lng" : 26.10167182989272
+               },
+               "southwest" : {
+                  "lat" : 44.42422132010728,
+                  "lng" : 26.09897217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5dff3d376a3633209b8e1f21a4af5f53fd910a15",
+         "name" : "One Stop Tea & Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 679,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113015307636897986404\"\u003ebenhea cristian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAipoQFArdvoMx4oATUWl5MCpIIPAgd4A56OHDmmvuk0NO2pYM4UKSybS6Oli-97xTyOc1I3IB6VuvHYg4hnHGFuRLKLq5DEulhqukTOSoGbplZ72CvSkyKLHBfO5ebLItEhCB5rpBhA8gJupXbT9_KKvhGhTHhSJXZJks3hVQO6pGL1qvadUcCQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJFwauBBT_sUARg0VAEK1gKSA",
+         "plus_code" : {
+            "compound_code" : "C4G2+64 București",
+            "global_code" : "8GP8C4G2+64"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJFwauBBT_sUARg0VAEK1gKSA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Aleea Dealul Mitropoliei, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4379917,
+               "lng" : 26.0971569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43934152989272,
+                  "lng" : 26.09850672989273
+               },
+               "southwest" : {
+                  "lat" : 44.43664187010727,
+                  "lng" : 26.09580707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "efee08b8ec057294bca6284d9d9a98de4c49682d",
+         "name" : "Artichoke Social House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2961,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115513457054089805158\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkb-AsaAVSagIsG6wPjJ0Q-qYl_eETrbom6hfyF3uAb0aSWPAIs1TNSU4TYe6H4bQ5aQiZyOCMVWNUIbH6XYedTgn4D0SDV9rr852yMc-YKKS046nyikJFQJzlXfWxNpREhB8gDLVaHdj1_LUxzhs9kFQGhQbgEOVrEr2Z7iVT7ZED6JwDoHuBw",
+               "width" : 3779
+            }
+         ],
+         "place_id" : "ChIJ-ZvzMUT_sUARqwr-vOGIOpY",
+         "plus_code" : {
+            "compound_code" : "C3QW+5V București",
+            "global_code" : "8GP8C3QW+5V"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ-ZvzMUT_sUARqwr-vOGIOpY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 533,
+         "vicinity" : "Calea Victoriei 45, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4367732,
+               "lng" : 26.095127
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43811257989272,
+                  "lng" : 26.09650837989272
+               },
+               "southwest" : {
+                  "lat" : 44.43541292010728,
+                  "lng" : 26.09380872010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fff972cecb89118981d61fabdb959e75a5b3b865",
+         "name" : "Bandit Specialty Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3420,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112108772815362927486\"\u003eAeluc Sogard\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7jtXNcS167-UiY_tpVzRCA48Nu5NBZEzMF6-_0K_ogGuwZnmnHBpwareB4o2_VN9qBrKbuq0wkisOnDzl-MWv8vECL3ewmdW6Fe_OZ2a7Gi9MV_1z22wq3JNqpOK3gb8EhAvQrtnBrB26le6068u0U7TGhSqsiXS_b8vpA03OMKT24a3ICFUog",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJA0FJEET_sUAR20idpX1pYOQ",
+         "plus_code" : {
+            "compound_code" : "C3PW+P3 București",
+            "global_code" : "8GP8C3PW+P3"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJA0FJEET_sUAR20idpX1pYOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 201,
+         "vicinity" : "Strada George Vraca 7, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.437123,
+               "lng" : 26.096131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43850527989272,
+                  "lng" : 26.09750922989272
+               },
+               "southwest" : {
+                  "lat" : 44.43580562010728,
+                  "lng" : 26.09480957010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2a46459388979b3b7bc08b42d7dfa9abdfe6fecd",
+         "name" : "VanFruct Câmpineanu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101639909855511766574\"\u003eAlina Boaca\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjdL0A2FqD_TtY9ren3m3a3rMNXsL_69Z28skJ78JOe9kMi1FiXTeaPrDJuHo0-784d77nviZdPEOam6AjbzExvo6vLXzS7jMzJHLPtYYwK0-Qq9lCegjdT9QRoYyWYjCEhANlVkgimWCR7Ztv0lp6fHLGhTCiUWgZ3kY1PCEeaCcarVOVXQDKw",
+               "width" : 1125
+            }
+         ],
+         "place_id" : "ChIJTxsYIkT_sUAReICNDWYYof8",
+         "plus_code" : {
+            "compound_code" : "C3PW+RF București",
+            "global_code" : "8GP8C3PW+RF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJTxsYIkT_sUAReICNDWYYof8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 290,
+         "vicinity" : "Strada Ion Câmpineanu 21, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4388329,
+               "lng" : 26.0937402
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44020657989272,
+                  "lng" : 26.09516322989272
+               },
+               "southwest" : {
+                  "lat" : 44.43750692010727,
+                  "lng" : 26.09246357010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f49584f589c649fad6bb25d04f9aaf020cde9a48",
+         "name" : "Hotspot Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111866940358691931436\"\u003eLorena Pur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxJllUKbLzk9ajEeFwex1t5mDqV5vWFoIosUXbJPXGB0Nd0OnH0N2h3p6zLyKq7Lp08AgJGRBpws3jVJuvtfNcHvnqfPUHq7IRT3VcUR8bP7HqVSyXWMfYEQ16-YJ88huEhD5ttPQIC__P5VEmz6LIbEGGhSB5qWvIRUF0s22w-5QxqmDyvpVjA",
+               "width" : 5120
+            }
+         ],
+         "place_id" : "ChIJv0ML7Vn_sUARdEOCnysPTVk",
+         "plus_code" : {
+            "compound_code" : "C3QV+GF București",
+            "global_code" : "8GP8C3QV+GF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJv0ML7Vn_sUARdEOCnysPTVk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Strada Ion Câmpineanu 31, București"
+      },
+	   {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4343261,
+               "lng" : 26.0947842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43567467989272,
+                  "lng" : 26.09608837989272
+               },
+               "southwest" : {
+                  "lat" : 44.43297502010727,
+                  "lng" : 26.09338872010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "195ca885d6d5caae76e0c81154a964483ea39ff7",
+         "name" : "Coffee 2 Go Brezoianu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118070126564390200668\"\u003eVlad Manolica\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKcaTgdkLITTmKIgNJYppYAC3MOiTHu-RjIYYAbMxLBYLcHK9AR3AWvrLHDOXFuS57iqq1gFfhvdvwRvLjktUTWb_WYGKIPBRddssPN1LuMNaXTm3qZ4RifwGlvt7PihxEhAWfiWMc_-g1a5sC13sGOCFGhQ0zdlaboIkkVhM33xIt4kp1KcgJQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ5zA2ZUH_sUARpQV_oywXgcM",
+         "plus_code" : {
+            "compound_code" : "C3MV+PW București",
+            "global_code" : "8GP8C3MV+PW"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ5zA2ZUH_sUARpQV_oywXgcM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 98,
+         "vicinity" : "Strada Ion Brezoianu 12, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4350408,
+               "lng" : 26.1066075
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43642732989272,
+                  "lng" : 26.10803732989272
+               },
+               "southwest" : {
+                  "lat" : 44.43372767010727,
+                  "lng" : 26.10533767010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "90475b6bdd4e7f17f0d122c9b8ed635515e9a1bf",
+         "name" : "The Coffee Shop Hristo Botev",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114164320228871047988\"\u003eOleksii Savchuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6tQyXRDI3ix_opXGDQcQkzidS12OAo90dv-nQWSGXTs8v7e0uNcLTSufCWYJ5vwIjPGRL0M-jlJ1He8M-Bb3PMz0Sc8QbST5NTOT-e6Fpymja12CBadJT_qp56kH80kkEhBUK2l6bgBKCIY0PvjTzrRQGhR1iuixenAGg0r-wYOeMaC0IkU8ww",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5fCJnlj_sUARQcXy8xSZ9AA",
+         "plus_code" : {
+            "compound_code" : "C4P4+2J București",
+            "global_code" : "8GP8C4P4+2J"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ5fCJnlj_sUARQcXy8xSZ9AA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "Bulevardul Hristo Botev nr. 10, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.445136,
+               "lng" : 26.084437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44652682989273,
+                  "lng" : 26.08580587989272
+               },
+               "southwest" : {
+                  "lat" : 44.44382717010728,
+                  "lng" : 26.08310622010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "decf54964c9310530d9b1171e5bc177fe9b02827",
+         "name" : "Black Habit",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112133585831041625252\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAej46ihL6msBpAIq5ilr8n6aPOcQcGm61cQ9sv-uqhknwVaWQTA8g-aR2hD9XzeS_gfbsg2HUt2y0LlRXG_7FIEFLpBzp5byGR23lucFUE2c03qurbJChcRxWzQQXoi4tEhCNA1jiO0e-vCJuKy9qsUOgGhQ_lRdDRIBpzxNigWSx-cbEkuxNBg",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJVX7ZJXX_sUAROLkZGmqT3RE",
+         "plus_code" : {
+            "compound_code" : "C3WM+3Q București",
+            "global_code" : "8GP8C3WM+3Q"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJVX7ZJXX_sUAROLkZGmqT3RE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 143,
+         "vicinity" : "Calea Griviței 77, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4336741,
+               "lng" : 26.0978598
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43499527989272,
+                  "lng" : 26.09930037989272
+               },
+               "southwest" : {
+                  "lat" : 44.43229562010728,
+                  "lng" : 26.09660072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1000256114337b65e8abfc1929e681c91f58b29b",
+         "name" : "Handsome Monk Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100473504467158261443\"\u003eGeorgi Georgiev\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFTj7Z9TuBHWV5u5bKALegllymnb3qOhix3hVVUY0Mi1aKnX_XEne68AZasQwtK-BFH30CBRpa5gl4_ZL17c-eGnFiWtOAWResBSBtrwnqFudbnUSpJjpadXOA6t7BzkaEhAxxpvmyYekf-yNwLstQFXRGhT-gayijPQKMk_62QGuwj8WWA7Mcw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZedtmA7_sUARhlXgghZNJ34",
+         "plus_code" : {
+            "compound_code" : "C3MX+F4 București",
+            "global_code" : "8GP8C3MX+F4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZedtmA7_sUARhlXgghZNJ34",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 236,
+         "vicinity" : "Calea Victoriei nr. 21-23, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4371939,
+               "lng" : 26.0985311
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43861257989272,
+                  "lng" : 26.09987932989272
+               },
+               "southwest" : {
+                  "lat" : 44.43591292010728,
+                  "lng" : 26.09717967010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2756a88c4248187a7f3f6726b930a4e7322bf638",
+         "name" : "The Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101214990797047745148\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5DBKtrcwbtAYIUkhKxZ24FK9K5e0d2YfjtlnKmHIOMBfU5BI0MFayofW8Sgj6TYqegp69qvZkAmUpg_JGpLh-mcmsIYVZCn_3RSJ60pcV8d6BvAuzLoifv6SBW7A_nSnEhDS0GmqOAvb-4u0v_44zyMcGhS5ElDlHjm4YxLmz6lC0g7tdL4PJA",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJVVQM6zT_sUAR8-Zw8tTlO9Q",
+         "plus_code" : {
+            "compound_code" : "C3PX+VC București",
+            "global_code" : "8GP8C3PX+VC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVVQM6zT_sUAR8-Zw8tTlO9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "Strada Ion Câmpineanu 13, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4387774,
+               "lng" : 26.1199133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44014497989272,
+                  "lng" : 26.12125662989272
+               },
+               "southwest" : {
+                  "lat" : 44.43744532010728,
+                  "lng" : 26.11855697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "bb68320847a6f378f13a913e99bb9fef2aceb6cc",
+         "name" : "Message In A Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104269537805725968406\"\u003eLaura Lupoae\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcf0cXidCrtOY8xkWkP7HoZZkd1M_0_PGI4NejK2Zrbd7tcUi2NqykGQFXKG02u77S3k5rWUf-uRPBCNbBjPKxh7zLW1QV3sYtRA33ei8BEiopp5r-Fo-1-v82xSOWo0uEhBI5beKGcERgJkaNr1Yjyl5GhS82ju0g0l-4LziBwIZEX1ZSiD84Q",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJXVQc6zH_sUARkaJ1gBLP3IE",
+         "plus_code" : {
+            "compound_code" : "C4Q9+GX București",
+            "global_code" : "8GP8C4Q9+GX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJXVQc6zH_sUARkaJ1gBLP3IE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Bulevardul Pache Protopopescu 88, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4348983,
+               "lng" : 26.107096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43622652989272,
+                  "lng" : 26.10839662989272
+               },
+               "southwest" : {
+                  "lat" : 44.43352687010728,
+                  "lng" : 26.10569697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e01aadd4a4584698f637867cb7091437b80ae9c0",
+         "name" : "5 To Go",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114161366839784787414\"\u003eMartin Jakubek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf9XsmB6k8kFrt2J5i4EE9PnURtP6K22pp4Z75oFcJpjCzyPIrthPiaCIVuyN14_PEg8FIcLP5HHznhv2B4Kk2eQxZln1s_WBbTkVkNl4ipIg209vdk9kLJh80xb0W7XbEhC-biELr4_ypN7zSSmSvjtdGhQ3cHSzBOTlaILXnXUWmBx9KdoolA",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJU8-XGjn_sUARXsyd_il167w",
+         "plus_code" : {
+            "compound_code" : "C4M4+XR București",
+            "global_code" : "8GP8C4M4+XR"
+         },
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "ChIJU8-XGjn_sUARXsyd_il167w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 92,
+         "vicinity" : "Bulevardul Hristo Botev 7, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4414373,
+               "lng" : 26.0949661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44276377989272,
+                  "lng" : 26.09627412989272
+               },
+               "southwest" : {
+                  "lat" : 44.44006412010727,
+                  "lng" : 26.09357447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "328136fd37d31fd8a6f5b6715714b621d8896a17",
+         "name" : "Tucano Coffee Zimbabwe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5792,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112063273231886044845\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfn5VlLBTCf0Mekj0dj_8roa7o3Oy4yy7NA0OocCb5KzeL2zDqW9-cA0uM274R3zxxwfJMLa6DNDAX6fWCX_xlXv6etmhh1HP7PYXG3tRFN5D1WUgQFBoyrsm73UcEgB9EhAs0og25ikVSIxmm_m_BjeFGhSMjFdaNHdAqHIIl5EysMLnevLZNw",
+               "width" : 8688
+            }
+         ],
+         "place_id" : "ChIJz1rh--__sUARtRvMgJFzyI0",
+         "plus_code" : {
+            "compound_code" : "C3RV+HX București",
+            "global_code" : "8GP8C3RV+HX"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJz1rh--__sUARtRvMgJFzyI0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "Strada, Calea Victoriei 100, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.437571,
+               "lng" : 26.1131819
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43890762989272,
+                  "lng" : 26.11453737989272
+               },
+               "southwest" : {
+                  "lat" : 44.43620797010728,
+                  "lng" : 26.11183772010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a2551a8e1f137460eb99a13bd3bc149a701bd622",
+         "name" : "Hello vape coffee tobacco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103585048819486635698\"\u003eAna-Valentina Murgeanu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVnQnvRzXFblo5cHhKgNKbufmLHTngkBfg8PvHsCNTqZ9b_OWydJBb15fnF3Yce48JNkUI9mtCa9vln5kWWatotsztQpEEiENmFbzd3h9vrx9scl4PRB2bxZLb9tJzBhzEhChBGyV-GcH9o33sTLU94NIGhR5U_zKj50ANf23bgF18i4s1AmHyQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJecUhtDD_sUARqf0UMGxn1WI",
+         "plus_code" : {
+            "compound_code" : "C4Q7+27 București",
+            "global_code" : "8GP8C4Q7+27"
+         },
+         "rating" : 5,
+         "reference" : "ChIJecUhtDD_sUARqf0UMGxn1WI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Bulevardul Carol I 59, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4440488,
+               "lng" : 26.0924772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44536917989272,
+                  "lng" : 26.09376447989272
+               },
+               "southwest" : {
+                  "lat" : 44.44266952010727,
+                  "lng" : 26.09106482010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f447bf5558c4199f58591f81aeb95af1568485af",
+         "name" : "Cascara Coffee Roastery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4587,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104111965046305969071\"\u003eCorina Chirila\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8j1F6E7HX8iUARG5y3aUAJBOr3i5_SzayerR8v6affuN8xnSrrodcnNXPlLD2mvydGH-WXRFWVRlvpVy2N9uU5gpKlcVr6ChJrZMgo0ueeIcXt3_DcH5pxLMyQJzuPWEEhDeLFnBJvC2FlEAIoixdIgPGhQ2iICLaP61_wy_kNBuSpBLuFUe_Q",
+               "width" : 2445
+            }
+         ],
+         "place_id" : "ChIJcaCEQyX_sUARSHc2INweqoM",
+         "plus_code" : {
+            "compound_code" : "C3VR+JX București",
+            "global_code" : "8GP8C3VR+JX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJcaCEQyX_sUARSHc2INweqoM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 84,
+         "vicinity" : "Calea Victoriei 134, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4408276,
+               "lng" : 26.1009628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44222722989272,
+                  "lng" : 26.10228267989272
+               },
+               "southwest" : {
+                  "lat" : 44.43952757010728,
+                  "lng" : 26.09958302010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "408ccf2f16447105ab17a5a012a18e4f6e5f7116",
+         "name" : "5 to go",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111865418117802902899\"\u003eDragnea Andreea-Alina\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjQEsg-5YkIHUVKgyb50O8exef5JiZsvALIo7M71glxYRqXoYm9693-ZGrdg8XCtvLPTbnvb8-3OayB8_tao5W46OuI6e979px3bZiynpd4qG1GuTW_P4_tIw0GrQVBPgEhCm9epG3X9Ct3qDMzpt8HgAGhQ0CVeKziArsv4OE61AJaTwKJe8sA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJx8LNyUj_sUARbHegYs8Z09U",
+         "plus_code" : {
+            "compound_code" : "C4R2+89 București",
+            "global_code" : "8GP8C4R2+89"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJx8LNyUj_sUARbHegYs8Z09U",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 104,
+         "vicinity" : "Strada C. A. Rosetti 20, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.43481939999999,
+               "lng" : 26.0946154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43610107989272,
+                  "lng" : 26.09596822989272
+               },
+               "southwest" : {
+                  "lat" : 44.43340142010728,
+                  "lng" : 26.09326857010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c72484ab4a4a0d100a13c3b9662bf367621e1b38",
+         "name" : "Meron Cișmigiu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116179614960005860674\"\u003eAlex Georgescu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQtjVwuYc-xDPO3qTChJxry_pCgjHx92JnVT4qiBt-5VSfQRbdMw6j79dshfUno8WkJoa1b8wHVUKYHe3LL0P6qxvOuwxaGW5vL7zMyQFf0qlEpW-Z8k5UYHDFOak8NzlEhBwU-GS1jsplbwn8sO9n6CdGhRyXtfqA8V6RsRQroio3fvmHSqSIw",
+               "width" : 7296
+            }
+         ],
+         "place_id" : "ChIJTZs1QQb_sUAR0qCir5l8v5A",
+         "plus_code" : {
+            "compound_code" : "C3MV+WR București",
+            "global_code" : "8GP8C3MV+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJTZs1QQb_sUAR0qCir5l8v5A",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 417,
+         "vicinity" : "Bulevardul Regina Elisabeta 40, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.447892,
+               "lng" : 26.1001096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44931287989272,
+                  "lng" : 26.10143627989272
+               },
+               "southwest" : {
+                  "lat" : 44.44661322010727,
+                  "lng" : 26.09873662010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5be8224ab54d474a267524dfa11204ac31fb7172",
+         "name" : "Enjoy coffee lounge",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105429777888212448009\"\u003ealex kostas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh4UWHXzOOVuoKzLZJAxM6IkVw_ILl5zJst0faMG4K7OQ5Hb4OfB3O9Tp_DPk7k_j1BMOjb0duM5eOhPplfFERoPpDeBb6RnapIDXpm7ciz1EVE6Qg5yo8a1w2CdSO2MNEhBPLA2AN7tAa28UnjOj9j3gGhQC5w4phxt5TTRnjHHYAH1s1jSSyw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhTGRVs3_sUARYtNhjptgKGY",
+         "plus_code" : {
+            "compound_code" : "C4X2+52 București",
+            "global_code" : "8GP8C4X2+52"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJhTGRVs3_sUARYtNhjptgKGY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "Strada Ernest Broșteanu 2, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4325029,
+               "lng" : 26.095419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43393412989272,
+                  "lng" : 26.09675607989272
+               },
+               "southwest" : {
+                  "lat" : 44.43123447010728,
+                  "lng" : 26.09405642010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5c94596413f9bd66d4e010adcc1026f7414b1c8d",
+         "name" : "PAIN AU CAFE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113245940677649669987\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANSL2qligqOIQYM3minSHPkuYDkzVvtdYA0wjiOQGbK1oA2IqBaHPtUI4GGtEpBt3tlAHViw6AJ3pHZLg5h-poKp81CDCaAC4D5QIY42sgb2nfzRs6Rfm31-eHwb_jHbpEhAKYuad3WiFFZOcpO7WKVHrGhRB7mTLLnKiGw0FX86MMm8Am1uRYA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJDcORf_v_sUARG6mVwqjkq5U",
+         "plus_code" : {
+            "compound_code" : "C3MW+25 București",
+            "global_code" : "8GP8C3MW+25"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDcORf_v_sUARG6mVwqjkq5U",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77,
+         "vicinity" : "Strada Mihai Vodă NR 9, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4344936,
+               "lng" : 26.0907268
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43590292989273,
+                  "lng" : 26.09207427989272
+               },
+               "southwest" : {
+                  "lat" : 44.43320327010728,
+                  "lng" : 26.08937462010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "734671c6ca387e9f92db9fe047624c97c98f6419",
+         "name" : "Handsome Monk Coffee Cișmigiu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117095740644459513558\"\u003eLaura Oprea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0YrEcZmAcgviW1ztQm70aqs1yLE3pIHDjEI1Bs7fn7EiwYBV6URLoP85S2-cZM2tnEwqEBerdy7gUZ517pLFHsJrLEXncZfwzOztjn8tLx2nNEV130UsSlgqBKAEpkt9EhDcWr5RBQwp6U3U3ZVy-QkHGhTcS4KHmUBZY4zCVr_8hs_NVuAL4A",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJN2JxNJr_sUARY4TpK_Dascc",
+         "plus_code" : {
+            "compound_code" : "C3MR+Q7 București",
+            "global_code" : "8GP8C3MR+Q7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJN2JxNJr_sUARY4TpK_Dascc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 142,
+         "vicinity" : "Bulevardul Regina Elisabeta 59, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.445252,
+               "lng" : 26.1010587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44656592989272,
+                  "lng" : 26.10238962989272
+               },
+               "southwest" : {
+                  "lat" : 44.44386627010728,
+                  "lng" : 26.09968997010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "de5020d81a539081a4e090f9d62987e1b51ea0f8",
+         "name" : "5 to Go",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110092492348863194026\"\u003eCristian Cristian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6vjeNDCQMrIQY6WuSmyyIBgVjU9Jp6pD_rWbdr1Oeip-55XEbXJYqVzKzOSueQIF4g6XYoie_eo7BhKvMgutDeODQoYLLG_jTX_Qw_SrFk8y37Qm72kU1veQU661HIfZEhBUi_QvFD9F80bTBob-RpZ4GhSjoAqUBYG51xtqxL9-BOk2I5HG8g",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJcyHFMkz_sUARCk76FPKYzPc",
+         "plus_code" : {
+            "compound_code" : "C4W2+4C București",
+            "global_code" : "8GP8C4W2+4C"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJcyHFMkz_sUARCk76FPKYzPc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "Strada General Eremia Grigorescu 22, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4339771,
+               "lng" : 26.1049507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43528752989272,
+                  "lng" : 26.10636247989272
+               },
+               "southwest" : {
+                  "lat" : 44.43258787010728,
+                  "lng" : 26.10366282010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a0320d2bca94cb0bae803930db60d869c9ec02c3",
+         "name" : "Coffee Station Coltea",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116051273038623414115\"\u003eCoffee Station Coltea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS-EOuW_5vvJo_G3XqU0scsUyRwfa1yFxZ9iX5HjA8uB3CERBOsT3cEO3W2vfE_v9O4MKy3J36N0FlrWF76Sl56dB48U4WJRwcTm3WOtAa7UBfDvGCWIZXGFC8sk6ZQYPEhBkNbkcQJCtf8cnFL8ZzPR7GhTcmpn5rE66Tl8pA0Sdv9kDzN_wRw",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJyZGe1jj_sUAR1uoWyyMq2MA",
+         "plus_code" : {
+            "compound_code" : "C4M3+HX București",
+            "global_code" : "8GP8C4M3+HX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJyZGe1jj_sUAR1uoWyyMq2MA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 71,
+         "vicinity" : "Strada Colței 3, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4472889,
+               "lng" : 26.0976749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44863927989272,
+                  "lng" : 26.09907917989272
+               },
+               "southwest" : {
+                  "lat" : 44.44593962010727,
+                  "lng" : 26.09637952010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "82acc48800a293d758c18df62e7d64a89dfcba29",
+         "name" : "Gourmet Coffee Romana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102451909744539694112\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAy_jvniAlzEPA_XCoHvd-B1ognH92ACpQgUthFGjdP6fjwKaoeE6ieL97I_MjSGhXYQW7OajAl5bt3Sf_cOI_9k0NHrM4is97jCB5_0Knk7KiIbIG0sRicjW-KeS2x1FuEhC1-exuChDRKYeaF7FqONZGGhRDy5yQCZdD6RPFPNb-lvoa_2Z3Ag",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJb7UEoHn_sUARG1Wl2GoIK48",
+         "plus_code" : {
+            "compound_code" : "C3WX+W3 București",
+            "global_code" : "8GP8C3WX+W3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJb7UEoHn_sUARG1Wl2GoIK48",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Strada Stanislav Cihoschi nr.1A, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4385525,
+               "lng" : 26.1081273
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43989162989272,
+                  "lng" : 26.10947877989272
+               },
+               "southwest" : {
+                  "lat" : 44.43719197010728,
+                  "lng" : 26.10677912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0427991a073195b55ff7831f9a81573ce1c0cdfe",
+         "name" : "Coffee and more",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112237971829717496964\"\u003eAdrian Patratanu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgUkg-MAWtrPr-c9x51iPrTA0_NnSuTa9whGUyEHtuY6q3kBzg5kWb32DZ7OVKacUQKMtLFjQ6BlBDpeY2XbDNcwVBoJKUa32PO36Sn_ceasfoNDOfzfArbVo_yppEXawEhC_AqKDM5TjtE8EBrXdLv8EGhREDgbghGDKM6ktoLQySLNVreODNQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEfC_6Gz_sUAREPpqk_jUFok",
+         "plus_code" : {
+            "compound_code" : "C4Q5+C7 București",
+            "global_code" : "8GP8C4Q5+C7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEfC_6Gz_sUAREPpqk_jUFok",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Strada Italiană 13, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.449634,
+               "lng" : 26.0959279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.45096497989272,
+                  "lng" : 26.09728612989272
+               },
+               "southwest" : {
+                  "lat" : 44.44826532010728,
+                  "lng" : 26.09458647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "9f8111ac7a00e9384713b3e556eab3d1ba551289",
+         "name" : "Boiler Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117273534558798084686\"\u003eShyam Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACArILYTm_GBr-GxwvApsycLCuoFEzuHCPvrE102PnNbLUQHWLiJzM6QP6_j6ZUILhg0XpKaUv34IrQKieCzZbIYueNPT9kLzBqGRZ5q2txsTqiBlgN1zZNRrhtR8uFjBEhCTv0yVyPn65EFFUnrSB0JBGhSKXAG3LnaLRqeRXcvoA46r7XVg9Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2Rg6PFP_sUARb4SMnTbcr1U",
+         "plus_code" : {
+            "compound_code" : "C3XW+V9 București",
+            "global_code" : "8GP8C3XW+V9"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ2Rg6PFP_sUARb4SMnTbcr1U",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 141,
+         "vicinity" : "Strada Constantin Daniel 25, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4386409,
+               "lng" : 26.114904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43999337989272,
+                  "lng" : 26.11624837989271
+               },
+               "southwest" : {
+                  "lat" : 44.43729372010727,
+                  "lng" : 26.11354872010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "bb6b6fdeba7edd99206df38b7af864aebcd54b5e",
+         "name" : "Hado Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103119907055520632997\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS6VDalumIxpdSkJCg9tHK66sBTj_DlW252Jc5dhRMD15uiHv647WmNKOQVfZPycv_OyaAVS2HOQGhrktV1kDlSQLSW9Kr0_yofLKl-IPt54xqBr8DBfNP4KdMfudtmxSEhBLtwHR1mRIqiMVwFHZzfOrGhQWrBW5EpX9QJnDidywZcivoKMSHw",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJGYyBQLv_sUAR5ZioVu3ZtZE",
+         "plus_code" : {
+            "compound_code" : "C4Q7+FX București",
+            "global_code" : "8GP8C4Q7+FX"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJGYyBQLv_sUAR5ZioVu3ZtZE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "Hado Coffee Shop, Calea Moșilor 135, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4471023,
+               "lng" : 26.100593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44846137989273,
+                  "lng" : 26.10193212989272
+               },
+               "southwest" : {
+                  "lat" : 44.44576172010728,
+                  "lng" : 26.09923247010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "89d52d24cc6815b60bc4700462758767a38c7cce",
+         "name" : "F190 Coffee Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 962,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100746796243827622477\"\u003eBogdan Tanase\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWxh8HYVMmV7-YvRDGKWckk92xSYlsMKzeG8JWI19NnkVAUq0KrdQqLccbpy3L_ek3J3grWaSUybn0VqfBYaNAu5nGy_NM1OTJFvE5hltMVZ1GSwcxc07UiLmC1YFVeJbEhA8jEzn7G1xvu7NUdQ-Lo8XGhQiwjphsouR6diKukwtaakH7b7IIw",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJDbcOhWf_sUARaqzctPl7A8U",
+         "plus_code" : {
+            "compound_code" : "C4W2+R6 București",
+            "global_code" : "8GP8C4W2+R6"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJDbcOhWf_sUARaqzctPl7A8U",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "Strada Mihai Eminescu 36, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4367513,
+               "lng" : 26.1066605
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43811687989272,
+                  "lng" : 26.10804912989272
+               },
+               "southwest" : {
+                  "lat" : 44.43541722010728,
+                  "lng" : 26.10534947010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ab04056ea7f1621c8f5781946dea80bb51d5bb90",
+         "name" : "T-Zero Specialty Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 539,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101662357491589221949\"\u003eT-Zero\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1qxznub-IrPqu1QiIDCDHTWJHN8rMSEq4LhH1EpimrwyVQz1MeEfVuhFzB5CEZI2akQB7n0kGGwvY-2P6HSoIX8OzefP04WTPTrEIm6IwDq-nRiZNeho8aLLMrAnaJZeEhCTUCpSOVHZaRJ9Q1DoHNr6GhSeH5rDOmj0uXS0uUDulvS-61PzcQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJR6HdRjj_sUAR_JLzkmMFyJI",
+         "plus_code" : {
+            "compound_code" : "C4P4+PM București",
+            "global_code" : "8GP8C4P4+PM"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJR6HdRjj_sUAR_JLzkmMFyJI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 266,
+         "vicinity" : "Strada Dianei 1, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4330314,
+               "lng" : 26.1039599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43434277989272,
+                  "lng" : 26.10531952989272
+               },
+               "southwest" : {
+                  "lat" : 44.43164312010727,
+                  "lng" : 26.10261987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0072d31b99584cdd31a81110425913584bc44beb",
+         "name" : "First Coffee - Speciality Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106930108658031802836\"\u003eAlina Niculae\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlQw-HhmErQso-w1rwpPILFTYESb3Duoj8vRhPD72b88NO2qomZtoWgd-6QhAFYrq7__7SLPzXJGOkQSmpiJH8kf93eW0SSUL9Oc-sia4avPzhG15xXxVVP9fokQF3iBjEhA6hUZIFFLGEsVW9IK7BzBpGhRssFii-F2hQ7akjKFJd5px3qr8qA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJwdHnJj__sUARuaMxNR05Ym0",
+         "plus_code" : {
+            "compound_code" : "C4M3+6H București",
+            "global_code" : "8GP8C4M3+6H"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJwdHnJj__sUARuaMxNR05Ym0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 151,
+         "vicinity" : "Strada Băniei 5, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4342258,
+               "lng" : 26.0883042
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43562052989272,
+                  "lng" : 26.08971087989272
+               },
+               "southwest" : {
+                  "lat" : 44.43292087010728,
+                  "lng" : 26.08701122010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a82b8695355f1dccfc955f1d444a4ffff284e8cb",
+         "name" : "Saola coffee shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106529368467049001238\"\u003eSabina Sfetcu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtQChi2w8ZmspyfixOA6w9sGwGSOlIYuxeg4GevXXwH6jvk3XqeeWgOR7THRhh83WR8A6AiSfjId4y9hBsUA2lICp0pR1sOt1r471J0_hj68z_KSf3wha1nv9wtGx0U4LEhDxf6wGFTm61lp1qanql06NGhR_P9n40vq-62V_NO1JYex6B48V6Q",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ8c6JNJL_sUAREGmQ9wufJxI",
+         "plus_code" : {
+            "compound_code" : "C3MQ+M8 București",
+            "global_code" : "8GP8C3MQ+M8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8c6JNJL_sUAREGmQ9wufJxI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Calea Plevnei 7, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.442134,
+               "lng" : 26.117602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44341867989272,
+                  "lng" : 26.11910052989272
+               },
+               "southwest" : {
+                  "lat" : 44.44071902010728,
+                  "lng" : 26.11640087010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6a4dd6f6f586de8341d38db5bd0072d783bb3d30",
+         "name" : "Kahweh Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 774,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105487187488766746680\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1H-d34gikIXa5Qob3klJILJ64rNbzr8M929uPQIhNnS1Cl-XPyT_YK3wlURIukE868tvNKEESE6DcHQ4lkPcIV9hDIKOo6coDTcawz3b5RNZFApChB8nahnqzUR2YrmTEhB84I25uXBPNgmmCPLdQjMPGhRMjH0gecqjAOcOEG9bWSy_Lxo7EA",
+               "width" : 774
+            }
+         ],
+         "place_id" : "ChIJKUAyVub_sUARRZnBC_fvo68",
+         "plus_code" : {
+            "compound_code" : "C4R9+V2 București",
+            "global_code" : "8GP8C4R9+V2"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJKUAyVub_sUARRZnBC_fvo68",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Calea Moșilor 209, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4272567,
+               "lng" : 26.1044359
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42860022989272,
+                  "lng" : 26.10563047989272
+               },
+               "southwest" : {
+                  "lat" : 44.42590057010727,
+                  "lng" : 26.10293082010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "29ef2a7c100ebcc31b35bc9df9cd8fb9973c4213",
+         "name" : "Hipster Coffee To Go",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106259304071382423955\"\u003eAlexandru Marin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAp-2D1-E00PVERcqc56cBzvM9TIMmbXUasHesFvQjxdqbnScD4W6PigulEwtarlo72uaDOGTW_JwvIGdBJW5iWGCyMNwq8--yUT-Eul1fTN5RujT7T-go_VeCt0UxsFtJEhBwy4WrpBXjuVdyjoZ5i1NpGhRTXwWwblHdZPEl0wyyGmwlhxugVg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLQpVaRb_sUARAZ7BSQwBmfc",
+         "plus_code" : {
+            "compound_code" : "C4G3+WQ București",
+            "global_code" : "8GP8C4G3+WQ"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJLQpVaRb_sUARAZ7BSQwBmfc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "Bulevardul Unirii 1, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.43666229999999,
+               "lng" : 26.1196832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43803722989272,
+                  "lng" : 26.12095652989272
+               },
+               "southwest" : {
+                  "lat" : 44.43533757010728,
+                  "lng" : 26.11825687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a74214423b9439f66d56b835d502414bbaca8b5f",
+         "name" : "Coftale Specialty Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2779,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117039346022267386146\"\u003eAlina Ciorgan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5GimXnqCGTkFkhp57MFg2mVbwkY1VIqoiD-4lPl3kG7adxbcolocLRRSXaMq9Epn1Grrwr3vomw9_5wn-SNxmEvNDn-at5LP6C7dDiAv4jxZqKJhqMZ8WDqhLcvI1_GpEhB6FAbEhcJ_hz-CQcJ8AMOFGhRMJwWBfcjocB-O6V_F4AD8VtOCiA",
+               "width" : 2779
+            }
+         ],
+         "place_id" : "ChIJ-333JzD_sUARY79Vki2pHk8",
+         "plus_code" : {
+            "compound_code" : "C4P9+MV București",
+            "global_code" : "8GP8C4P9+MV"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ-333JzD_sUARY79Vki2pHk8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 966,
+         "vicinity" : "Strada Ștefan Mihăileanu, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4436847,
+               "lng" : 26.0966855
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44503322989272,
+                  "lng" : 26.09799212989272
+               },
+               "southwest" : {
+                  "lat" : 44.44233357010728,
+                  "lng" : 26.09529247010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f610a8eaf4c4a9cfd8e24fecb096a138882bb37c",
+         "name" : "The Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114591244731811291107\"\u003eFrank Mütze\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASC2D0aQqCMj1SyV4xT2BkJS8melMr62Lx7EaazXLis0JQyFNI0iKDUnqBfKY_5O_XS_1ouKT_Mv0elJxaHh3epP-6rajiw-Ltz-D94dg6Zl0CaRrzH61se0twxj80GocEhB_LgWfRh4pXL5Mg1YQy8wCGhS4p3FzV30JoAOVChv0GrQpa6ravg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJY2HIHU7_sUARL9h3MB_DhZc",
+         "plus_code" : {
+            "compound_code" : "C3VW+FM București",
+            "global_code" : "8GP8C3VW+FM"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJY2HIHU7_sUARL9h3MB_DhZc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 182,
+         "vicinity" : "Strada D. I. Mendeleev 10, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4298168,
+               "lng" : 26.0979614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43111297989272,
+                  "lng" : 26.09930522989272
+               },
+               "southwest" : {
+                  "lat" : 44.42841332010727,
+                  "lng" : 26.09660557010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "db26c84e545ddd37b86d5e67b7a90286ef218011",
+         "name" : "MAD.GOAT Specialty Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3727,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112032147644668159387\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdiwElfTNhdzAO65mSKSUeuwsSVNeYOJ2Z2cHVy821vBa49-euBhg5VW4kUzt9hJeEVAMO15pIpRmwi39qGR-x8M02bwio-IPO9wH2fDAeAylut7SS5W9H2SJO9lqDOewEhBtApY8448cUa20t-XPCy8_GhTHf4nrUpDdKFo6HONdTRscSPyClw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJpz7PGZj_sUARwpwQqJJX31Y",
+         "plus_code" : {
+            "compound_code" : "C3HX+W5 București",
+            "global_code" : "8GP8C3HX+W5"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJpz7PGZj_sUARwpwQqJJX31Y",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 264,
+         "vicinity" : "Splaiul Independenței 2K, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4339527,
+               "lng" : 26.0997627
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43529902989272,
+                  "lng" : 26.10105812989272
+               },
+               "southwest" : {
+                  "lat" : 44.43259937010728,
+                  "lng" : 26.09835847010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "aba29ca803ebd6a6b5a38e4c1e0398b95e64c816",
+         "name" : "The Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115099634542270559583\"\u003eMadalina Dragna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASXY7NdVJQCiIyh0QHAvKRF92C38g1j7Reo6D7s3l9bllDoWW7vq6TQpMsntsr45OrGRkJCY1tGF4U4x8-493CmBcYs_yodNfXNPpAyji9F932klwRbmajbfcvJiPznM_EhASkEKkAOmvd62qyaWlBx6GGhTGzVzvld4ButM_CFUo7jwpghdgdQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJX3TOvkD_sUARZUdaEOyemE4",
+         "plus_code" : {
+            "compound_code" : "C3MX+HW București",
+            "global_code" : "8GP8C3MX+HW"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJX3TOvkD_sUARZUdaEOyemE4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 330,
+         "vicinity" : "Strada Academiei 2, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.44251089999999,
+               "lng" : 26.0935761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44389142989272,
+                  "lng" : 26.09499417989272
+               },
+               "southwest" : {
+                  "lat" : 44.44119177010727,
+                  "lng" : 26.09229452010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f3fe738ac848fa953ff7c2cdf3cd17a9d8b546b2",
+         "name" : "Coffee Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116787325175531368219\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHNq2fdAQ9VSKLEf81KraAXQehwiiyJhbOsvtkaGKDjm1xHuDvapXeQGYjaH4wq5U9cl-i5j-5494PMtJGNe9xtaq1x2EEJt2obQBnOXFFlhZmkC4bIJXoOVQMl-iQ6NfEhCCtkmsYmh5cZpXw5_J6PLqGhSSB2FOle7Q522AHqjdmSd6vSQ5Eg",
+               "width" : 3448
+            }
+         ],
+         "place_id" : "ChIJx87E5cT_sUAR8vnu9sO-40g",
+         "plus_code" : {
+            "compound_code" : "C3VV+2C București",
+            "global_code" : "8GP8C3VV+2C"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJx87E5cT_sUAR8vnu9sO-40g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 104,
+         "vicinity" : "Calea Victoriei 85, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4332128,
+               "lng" : 26.0953341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43451407989272,
+                  "lng" : 26.09667732989272
+               },
+               "southwest" : {
+                  "lat" : 44.43181442010728,
+                  "lng" : 26.09397767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "40c8a9c3cebfe04fe7abd62b19a10062996e8e6c",
+         "name" : "Origo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112235521478541652304\"\u003eP B\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsG0gz6hptI7ojf5Slb2A-XdMdJwYbPBv3ZqSlemBmN8H-3HyZLkszAvmTsZ9tfj00LKd7bb27uf8mWlyODqMlEdq8r1YJ-UsUxatqDXWsLaoPJ8DYjfoY50KN-OxO344EhA590R2UitCRnzmgvBwIXjgGhR5eXtbC05mjmiwuknZMo_9I_6QqA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQbgapEH_sUAR__vch8jUosQ",
+         "plus_code" : {
+            "compound_code" : "C3MW+74 București",
+            "global_code" : "8GP8C3MW+74"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJQbgapEH_sUAR__vch8jUosQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2792,
+         "vicinity" : "Strada Lipscani 9, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4387007,
+               "lng" : 26.1041811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44002537989272,
+                  "lng" : 26.10555957989272
+               },
+               "southwest" : {
+                  "lat" : 44.43732572010727,
+                  "lng" : 26.10285992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "cbe6a08b67aae4b0b3821bbb467c3b09e7ffc48f",
+         "name" : "Citrick Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1463,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103525298291851857044\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnKrOLnVpINAMHSMvbgSyKwq6IHnZUILv2nwa6BvbYLlr5lW8q9pUlO5iVG_cqNWbNDuo8cRuIp3ljjjeZ3ldOF5OIMzboRwhga_b1EyQqiL2nzUjO8AdU6GxOKryl98dEhCFm6xD7yf3DFetho5TotVNGhQr7g4NfS4YnYPaIB9bMtiZzEhqbA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJ0ifqcD_sUAR-TYbA-bAocg",
+         "plus_code" : {
+            "compound_code" : "C4Q3+FM București",
+            "global_code" : "8GP8C4Q3+FM"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJJ0ifqcD_sUAR-TYbA-bAocg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "Strada Batiștei 17, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4363373,
+               "lng" : 26.105756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43762452989272,
+                  "lng" : 26.10717227989272
+               },
+               "southwest" : {
+                  "lat" : 44.43492487010728,
+                  "lng" : 26.10447262010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8ad04a27525c3de072c51027d22bb207b600a52f",
+         "name" : "Ivy",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118386041746653449458\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmSLonk31rWkmtxe0C0jVdPfVrMTObcz19C4JjtAWhU2Yl4zfucOKIADiqkCAKnz47iK200B_s-qu6fXeA-qMkihqtIHWemE9Ku2-XZTBJYmBVjZgr8O2iCqej9XDC8ZvEhCO5HHEgK7ijaG18_rfNfhIGhRq6T3m-Kh3yBzWP6dBpOImUBL_mA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJkXHSXTj_sUARhGEK7h8Zv_0",
+         "plus_code" : {
+            "compound_code" : "C4P4+G8 București",
+            "global_code" : "8GP8C4P4+G8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJkXHSXTj_sUARhGEK7h8Zv_0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "liquor_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 185,
+         "vicinity" : "Bulevardul Carol I 23, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.443976,
+               "lng" : 26.0993181
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44534617989273,
+                  "lng" : 26.10066397989272
+               },
+               "southwest" : {
+                  "lat" : 44.44264652010729,
+                  "lng" : 26.09796432010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "741153d8e93ef440b3ee6c02790e5a1b8305d1f9",
+         "name" : "ORYGYNS Specialty Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109360274113449181470\"\u003eORYGYNS Specialty Coffee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArVWRZXPNiWA4RwoPJQufEJGbOGFKt1Grx4EULP7M4jONp_jK6E9lusn5W_-Qe2Lzj5sd59IeW05udDrd4eC9x-je2h3anoZPRzVpU_wQv-07ESJoNAxbUSrvWRCURrA0EhAZ7g7kjQxTpfHOvZf-pOKMGhQpK8TbOGXRVgHZJqTiFKJLjRPq8A",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJHyvcZk7_sUARv_LW2uTs4rM",
+         "plus_code" : {
+            "compound_code" : "C3VX+HP București",
+            "global_code" : "8GP8C3VX+HP"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJHyvcZk7_sUARv_LW2uTs4rM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 350,
+         "vicinity" : "Strada Jules Michelet 12, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4373766,
+               "lng" : 26.0955192
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43877667989272,
+                  "lng" : 26.09692082989272
+               },
+               "southwest" : {
+                  "lat" : 44.43607702010728,
+                  "lng" : 26.09422117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c8e3f1d1a818954b514c0159a62b838b0a8faa53",
+         "name" : "Sheida - Coffee & Stories",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105802128547551452361\"\u003eSheida - Coffee &amp; Stories\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJfopYrQ8EVgKLtgTVabvkz17N2P1YE5dsEBiGlJ38JQ7U3aJi57Y3XSJTV-P68HptWjsipeKgJk3TkQGIzVapcqpnk9KMonxNSdhvHowMo7gRpsbodgYiA4621fc7hTBEhBe3v0IkWit6jCGJ8AxRzqnGhS-UquVSz-zYQ5zVHbs9HGWDk0IRA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQ9zUOET_sUARy7Ixm4CICaE",
+         "plus_code" : {
+            "compound_code" : "C3PW+X6 București",
+            "global_code" : "8GP8C3PW+X6"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJQ9zUOET_sUARy7Ixm4CICaE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 443,
+         "vicinity" : "Strada Ion Câmpineanu 23, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.44089899999999,
+               "lng" : 26.086618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44220472989272,
+                  "lng" : 26.08798802989272
+               },
+               "southwest" : {
+                  "lat" : 44.43950507010728,
+                  "lng" : 26.08528837010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "eaa245e99393ca00d9aae635b064d2d97e7af46b",
+         "name" : "Stay by Coffee 2 Go",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112604589701803459885\"\u003eAdriana Leonte\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaAAwyJ_G8uZUtBrS3FIc9jWq5Wt-8RNai1Pvhl-RpHuXG-KViWJTRoFwLywch664pPOT5euKdYCw68OEuOZX69N_5uly8sJU4HN-SF1zqZeHaHI1RjyMBuYLR7cjvilOEhAm169OnwtUQk0rXVBffiMKGhTLKBueXe8W-6xgTnF4FfCe0CGmqA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJlT3iNVr_sUAR5w_x2IKC-sI",
+         "plus_code" : {
+            "compound_code" : "C3RP+9J București",
+            "global_code" : "8GP8C3RP+9J"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJlT3iNVr_sUAR5w_x2IKC-sI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 350,
+         "vicinity" : "Strada General H. M. Berthelot 48, București"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4471368,
+               "lng" : 26.1008716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44851652989271,
+                  "lng" : 26.10220997989272
+               },
+               "southwest" : {
+                  "lat" : 44.44581687010727,
+                  "lng" : 26.09951032010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6822ba1d6fa8919aa478ea7a504fecb24e203bb9",
+         "name" : "Mood's Coffee & Drinks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3071,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112626655063589016741\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP6NyZqK4wnm51WPALTBuAGKfsmAYXjqaK9_3E5qeyDfnOyOGNuB0ff6VufNpdEjmwIGFQ-0ZWCPAPd4SAs_xzAyOMAyv9OI1-xOc_SYHJzcmJ9ZbrK7OZy-cPHKO2zXQEhDRGQqhhTZ-nS_XO-BPQBwaGhS0ORvX33D47cqqxNniTwBFoHd2ZQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJUW-rWif_sUAR2BfrMSHarLw",
+         "plus_code" : {
+            "compound_code" : "C4W2+V8 București",
+            "global_code" : "8GP8C4W2+V8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJUW-rWif_sUAR2BfrMSHarLw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "Strada Mihai Eminescu 38, București"
+      }
+   ],
+   "status" : "OK"
+}
