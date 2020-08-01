@@ -1,0 +1,13 @@
+{
+	"favourites": [
+		{
+			"id": "8ad04a27525c3de072c51027d22bb207b600a52f",
+			"name": "Ivy",
+			"Address": "Bulevardul Carol I 23, București",
+			"Coordinates": {
+				"Latitude": 44.4363373,
+				"Longitude": 26.105756
+			}
+		}
+	]
+}

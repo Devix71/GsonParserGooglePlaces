@@ -271,10 +271,10 @@ return this;
 @Override
 public String toString(){
 	StringBuilder sb = new StringBuilder();
-	sb.append("***** Employee Details *****\n");
-	sb.append("Nume "+getName()+"\n");
-	sb.append("Adresa "+getVicinity()+"\n");
-	sb.append("Coordonate " +getGeometry() + "\n");
+	sb.append("***** Store details *****\n");
+	sb.append("Name "+getName()+"\n");
+	sb.append("Adress "+getVicinity()+"\n");
+	sb.append("Coordinates " +getGeometry() + "\n");
 	sb.append("*****************************\n");
 	return sb.toString();
 }
