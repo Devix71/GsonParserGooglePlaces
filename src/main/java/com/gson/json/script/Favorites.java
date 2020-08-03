@@ -11,6 +11,8 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.stream.JsonWriter;
 import com.gson.json.objects.Marker;
+import com.gson.json.readingfavs.Items;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -50,21 +52,33 @@ public class Favorites extends GsonScript{
 		
 		Marker mrk1 = (Marker)gson.fromJson(fileData, Marker.class);
 		
+		String fileDatas = new String(Files.readAllBytes(Paths
+				.get("F:/Favourites.txt")));
+		
+		Items itm1 = (Items)gson.fromJson(fileDatas, Items.class);
+		for(int j =0; j< itm1.getFavourites().size();j++) {
+		
 		for(int i =0;i< mrk1.getResults().size();i++) {
 			
-			if(mrk1.getResults().get(i).getName().equals(coffeename)) {
+			if(mrk1.getResults().get(i).getName().equals(coffeename)&& (!coffeename.equals(itm1.getFavourites().get(j).getName()))) {
 				
 				System.out.println(mrk1.getResults().get(i).getName());
 				System.out.println(mrk1.getResults().get(i).getVicinity());
 				System.out.println(mrk1.getResults().get(i).getGeometry().getLocation().getLat());
 				System.out.println(mrk1.getResults().get(i).getGeometry().getLocation().getLng());
-			}
+			}else {
+			z = 0;
+		}
+		
+			
+		}
 		}
 		
 		FileOutputStream out = new FileOutputStream(new File("F:/Favourites.txt"),true);
 		OutputStreamWriter osw = new OutputStreamWriter(out);
 		JsonWriter writer = new JsonWriter(osw);
-		
+	
+	for(int j =0; j<itm1.getFavourites().size();j++) {
 		for(int i =0;i< mrk1.getResults().size();i++) {
 			if(mrk1.getResults().get(i).getName().equals(coffeename)) {
 				
@@ -103,6 +117,9 @@ public class Favorites extends GsonScript{
 						int position8 = lines.size()+5;
 						int position9 = lines.size()+6;
 						int position10 = lines.size()+7;
+						
+						
+						
 						String extraLine = "		,";
 						String extraLine2 ="		{";
 						String extraLine3 ="			"+'"'+"id"+'"'+": "+'"' + mrk1.getResults().get(i).getId() + '"'+",";
@@ -128,25 +145,12 @@ public class Favorites extends GsonScript{
 						lines.add(position10, extraLine10);
 						
 						Files.write(path, lines, StandardCharsets.UTF_8);
-						/*FileWriter myWriter = new FileWriter("F:/Favourites.txt",true);
-						  myWriter.append(",");
-							myWriter.close();
-								
-									writer.setIndent("\t");
-								
-									writer.beginObject(); //{
-										writer.name("id").value(mrk1.getResults().get(i).getId());
-										writer.name("name").value(mrk1.getResults().get(i).getName());
-										writer.name("Address").value(mrk1.getResults().get(i).getVicinity());
-										writer.name("Coordinates").beginObject();
-											writer.name("Latitude").value(mrk1.getResults().get(i).getGeometry().getLocation().getLat());
-											writer.name("Longitude").value(mrk1.getResults().get(i).getGeometry().getLocation().getLng());
-										writer.endObject();
-							        writer.endObject();
-							    
-							   writer.flush();
-						writer.close(); */
-		   break;
+						
+						break;
+		   
+					case 0 :
+						System.out.println("It already is favorited");
+						break;
 		   
 				}
 		
@@ -156,4 +160,6 @@ public class Favorites extends GsonScript{
 
 	}
 	
+}
+
 }
